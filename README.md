@@ -1,21 +1,9 @@
 Juice Tracker app
 ==================================
 
-Code for Android Basics with Compose Juice Tracker app.
+This codelab helped me learn how to add Views elements inside a Compose app using an AndroidView element. The rating stars, the color spinner and the Ad on top are created this way.
 
-Pre-requisites
---------------
+![Screenshot_20240405_143601](https://github.com/NickSidiropoulos/Juice-tracker-compose-with-views/assets/12250619/11e8503f-7722-477b-832c-dbab345eb390)
 
-You need to know:
-- How to create a new project in Android Studio.
-- How to use architecture components including ViewModel.
-- How to use Room with StateFlow.
 
-Getting Started
----------------
 
-1. [Install Android Studio](https://developer.android.com/studio/install.html), if you don't already
-   have it.
-2. Download the app.
-3. Import the app into Android Studio.
-4. Build and run the app.
